@@ -1,2 +1,1 @@
-# loyalty-ui
-Consensys Bugbounty POC
+# Consensys Bugbounty POC
